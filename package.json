@@ -48,7 +48,7 @@
     "@types/react": "^17.0.27",
     "@types/styled-components": "^5.1.21",
     "@typescript-eslint/eslint-plugin": "5.10.2",
-    "@typescript-eslint/parser": "5.10.2",
+    "@typescript-eslint/parser": "5.15.0",
     "jest": "^27.4.7",
     "jest-styled-components": "^7.0.5",
     "plop": "^3.0.5",
