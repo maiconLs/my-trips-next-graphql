@@ -4,6 +4,8 @@ import { MapContainer, TileLayer, Marker, MapConsumer } from 'react-leaflet'
 import * as S from './styles'
 import { mapView } from './config'
 
+import L from 'leaflet'
+
 type Place = {
   id: string
   name: string
@@ -36,6 +38,12 @@ const CustomTileLayer = () => {
   )
 }
 
+const markerIcon = new L.Icon({
+  iconUrl: 'icon-map.png',
+  iconSize: [40, 40],
+  iconAnchor: [20, 20],
+  popupAnchor: [0, -40]
+})
 
 const Map = ({ places }: MapProps) => {
   const router = useRouter()
@@ -45,7 +53,7 @@ const Map = ({ places }: MapProps) => {
         center={[51.505, -0.09]}
         zoom={3}
         style={{ height: '100%', width: '100%' }}
-        minZoom={2}
+        minZoom={3}
         maxBounds={[
           [-180, 180],
           [180, -180],
@@ -81,6 +89,7 @@ const Map = ({ places }: MapProps) => {
               key={`place-${id}`}
               position={[latitude, longitude]}
               title={name}
+              icon=
               eventHandlers={{
                 click: () => {
                   router.push(`/place/${slug}`)
