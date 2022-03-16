@@ -7,8 +7,12 @@ This project uses lot of stuff as:
 - [Styled Components](https://styled-components.com/)
 - [Jest](https://jestjs.io/)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
-- [Storybook](https://storybook.js.org/)
 - [Prettier](https://prettier.io/)
+
+## Preview
+
+![Captura de Tela (31)](https://user-images.githubusercontent.com/89431335/158708841-6f441ea1-352e-4d90-8ccd-12fda913edcf.png)
+![Captura de Tela (30)](https://user-images.githubusercontent.com/89431335/158708848-bab671ff-66c7-4ecd-ad5b-ed7782469125.png)
 
 ## Getting Started
 
