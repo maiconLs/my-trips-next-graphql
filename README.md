@@ -1,3 +1,8 @@
+## Preview
+
+![Captura de Tela (31)](https://user-images.githubusercontent.com/89431335/158708841-6f441ea1-352e-4d90-8ccd-12fda913edcf.png)
+![Captura de Tela (40)](https://user-images.githubusercontent.com/89431335/158709788-b30f22a3-e17e-4988-ab28-7cbc0ace95f1.png)
+
 ## What is inside?
 
 This project uses lot of stuff as:
@@ -8,11 +13,6 @@ This project uses lot of stuff as:
 - [Jest](https://jestjs.io/)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro)
 - [Prettier](https://prettier.io/)
-
-## Preview
-
-![Captura de Tela (31)](https://user-images.githubusercontent.com/89431335/158708841-6f441ea1-352e-4d90-8ccd-12fda913edcf.png)
-![Captura de Tela (40)](https://user-images.githubusercontent.com/89431335/158709788-b30f22a3-e17e-4988-ab28-7cbc0ace95f1.png)
 
 ## Getting Started
 
