@@ -1,8 +1,13 @@
+## About
+
+Hey everyone, this is my site where i put all the places tha i went. I also put photos and description of each place. I hope you like it!
+
 ## Preview
 
 ![Captura de Tela (31)](https://user-images.githubusercontent.com/89431335/158708841-6f441ea1-352e-4d90-8ccd-12fda913edcf.png)
 ![Captura de Tela (40)](https://user-images.githubusercontent.com/89431335/158709788-b30f22a3-e17e-4988-ab28-7cbc0ace95f1.png)
 
+<b>Visit</b>: https://my-trips-next-graphql.vercel.app/ 
 ## What is inside?
 
 This project uses lot of stuff as:
