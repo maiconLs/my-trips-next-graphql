@@ -14,7 +14,7 @@
   },
 
   "dependencies": {
-    "@react-leaflet/core": "^1.0.2",
+    "@react-leaflet/core": "^1.1.1",
     "@styled-icons/evaicons-outline": "^10.34.0",
     "graphql": "^16.3.0",
     "graphql-request": "^4.1.0",
