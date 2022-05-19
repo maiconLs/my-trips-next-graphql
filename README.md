@@ -1,6 +1,6 @@
 ## About
 
-Hey everyone, this is my site where i put all the places tha i went. I also put photos and description of each place. I hope you like it!
+Hey everyone, this is my site where i put all the places that i want to go. I also put photos and description of each place. I hope you like it!
 
 ## Preview
 
